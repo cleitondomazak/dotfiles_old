@@ -15,15 +15,6 @@ Slack
 Tunnelblick
 Dropbox
 
-
-#Atom
-seti-icons
-highlight-selected
-simple-drag-drop-text
-git-plus
-merge-conflicts
-tree-view-git-status
-
 #Brew
 brew install coreutils
 
