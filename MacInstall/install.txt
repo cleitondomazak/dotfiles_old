@@ -1,26 +1,29 @@
 #Apps
-docker
-spotify
-Atom
+Git
+LastPass
+Dropbox
+VirtualBox
+Vagrant
+Microsoft Remote Desktop
+KeePassXC
+Google Chrome
+Evernote
+BlueJeans
+Disk Cleaner
+Spotify
+Code
 Spectacle
-Skype preview
 Stremio
 AppCleaner
 Suuntolink
-Authy
-LastPass
-Whatsapp
+Authy Desktop
 iTerm
-Slack
+Franz
 Tunnelblick
-Dropbox
+Whatsapp
 
 #Brew
 brew install coreutils
-
-
-#Shell
-dotfiles - https://github.com/mathiasbynens/dotfiles
 
 #KeyBoard
 Move the file USI11.dmg to /Library/Keyboards Layout, restart, and change on Keyboard settings the input.
