@@ -19,10 +19,8 @@ HookyQR.beautify
 PeterJausovec.vscode-docker
 foxundermoon.shell-format
 ipedrazas.kubernetes-snippets
-mauve.terraform
-shanoor.vscode-nginx
-teabyii.ayu
 timonwong.shellcheck
+korekontrol.saltstack
 "
 	for module in $modules; do
 		code --install-extension "$module" || true
