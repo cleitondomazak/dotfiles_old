@@ -21,7 +21,6 @@
   "workbench.colorTheme": "Atom One Dark",
   "window.zoomLevel": 0,
   "extensions.ignoreRecommendations": false,
-  "go.coverageDecorator": "gutter",
   "search.exclude": {
     "**/node_modules": true,
     "**/bower_components": true,
@@ -32,9 +31,8 @@
   "editor.fontWeight": "300",
   "docker.showExplorer": false,
   "workbench.editor.showIcons": true,
-  "go.testOnSave": false,
-  "go.coverOnSave": false,
   "explorer.confirmDragAndDrop": false,
   "search.smartCase": true,
-  "editor.fontLigatures": true
+  "editor.fontLigatures": true,
+  "files.insertFinalNewline": true
 }
