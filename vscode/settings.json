@@ -34,5 +34,7 @@
   "explorer.confirmDragAndDrop": false,
   "search.smartCase": true,
   "editor.fontLigatures": true,
-  "files.insertFinalNewline": true
+  "files.insertFinalNewline": true,
+  "workbench.editor.showTabs": true,
+  "explorer.confirmDelete": false
 }
