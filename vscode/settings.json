@@ -18,7 +18,6 @@
   "files.trimTrailingWhitespace": true,
   "editor.minimap.enabled": false,
   "editor.renderWhitespace": "boundary",
-  "workbench.colorTheme": "Atom One Dark",
   "window.zoomLevel": 0,
   "extensions.ignoreRecommendations": false,
   "search.exclude": {
@@ -36,5 +35,9 @@
   "editor.fontLigatures": true,
   "files.insertFinalNewline": true,
   "workbench.editor.showTabs": true,
-  "explorer.confirmDelete": false
+  "explorer.confirmDelete": false,
+  "workbench.colorTheme": "Atom One Dark",
+  "[json]": {
+    "editor.defaultFormatter": "HookyQR.beautify"
+  }
 }
