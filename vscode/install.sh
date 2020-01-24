@@ -12,17 +12,23 @@ if test "$(which code)"; then
 
 	# from `code --list-extensions`
 	modules="
-PKief.material-icon-theme
 akamud.vscode-theme-onedark
+DavidAnson.vscode-markdownlint
 eamodio.gitlens
-HookyQR.beautify
-PeterJausovec.vscode-docker
 foxundermoon.shell-format
+HookyQR.beautify
 ipedrazas.kubernetes-snippets
-timonwong.shellcheck
 korekontrol.saltstack
-"
+mauve.terraform
+ms-azuretools.vscode-azureterraform
+ms-azuretools.vscode-docker
+ms-ossdata.vscode-postgresql
+ms-python.python
+ms-vscode.azure-account
+ms-vscode.Go
+PKief.material-icon-theme
+timonwong.shellcheck"
 	for module in $modules; do
-		code --install-extension "$module" || true
+		"$module" || true
 	done
 fi
