@@ -76,5 +76,6 @@
     "-v"
   ],
   "editor.fontFamily": "Hack, 'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
-  "editor.smoothScrolling": true
+  "editor.smoothScrolling": true,
+  "workbench.iconTheme": "material-icon-theme"
 }
